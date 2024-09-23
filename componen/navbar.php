@@ -7,7 +7,9 @@
 </head>
 <body>
     <!-- Navbar start -->
-    
+    <A:blank>
+        <Nav>NAVBAR NGACO DIKIT</Nav>
+    </A:blank>
     
     
     
