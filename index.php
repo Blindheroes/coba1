@@ -6,3 +6,5 @@ include_once('./componen/fotter.php');
 
 echo "test";
 
+#INI NAVBAR NYA PURA PURA
+
